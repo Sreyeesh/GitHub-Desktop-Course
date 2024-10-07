@@ -1,6 +1,6 @@
 # GitHub Desktop Mastery: Hands-On HTML, CSS, and JavaScript Project
 
-Welcome to the **GitHub Desktop Hands-On Project** repository! This repository is part of the "GitHub Desktop Mastery" course available on [Udemy](). The goal of this project is to help you learn version control using GitHub Desktop through a simple, yet practical, HTML, CSS, and JavaScript project.
+Welcome to the **GitHub Desktop Hands-On Project** repository! The goal of this project is to help you learn version control using GitHub Desktop through a simple, yet practical, HTML, CSS, and JavaScript project.
 
 ## 📚 Course Overview
 This project is part of the course **"Master GitHub Desktop for Version Control"** where you will learn:
